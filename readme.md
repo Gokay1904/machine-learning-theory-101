@@ -1,6 +1,6 @@
 ## machine-learning-theory-101
 
-In this project, I aim to collect the types of optimizers, regression models, classification types used in neural networks in machine learning with the related mathematical equations in a library.
+In this project, I aim to learn related mathematical equations used in Machine Learning topics such as Regression, Gradient Descent, Classification, Clustering etc.
 
 
 
